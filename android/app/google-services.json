@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671310927471",
+    "project_id": "compalintsystem",
+    "storage_bucket": "compalintsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671310927471:android:3022e30a6d9d5721255f9a",
+        "android_client_info": {
+          "package_name": "com.example.complaintsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnTGZBR4iqxT4XPXxf4LobLGVjpoHAbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
